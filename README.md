@@ -47,11 +47,5 @@ This project has room for further enhancements, including:
 - Integration with electronic health records (EHR) systems.
 - Improved user interface design.
 
-## Contributors
-
-- [Your Name](GitHub Profile Link) - Project Lead and Developer
-
-## License
-
-This project is open-source under the [License Name] license.
+ 
 
